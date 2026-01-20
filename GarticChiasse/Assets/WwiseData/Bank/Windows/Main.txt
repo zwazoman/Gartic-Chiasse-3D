@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1299904465	Play_Blunt_Hit_001			\Default Work Unit\Play_Blunt_Hit_001	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	140851328	Blunt Hit-001	.cache\52\{52C8AC3C-67E2-A1F9-CDE7-CD6090BCAC48}.wem		\Containers\Default Work Unit\Blunt Hit-001		252560
+

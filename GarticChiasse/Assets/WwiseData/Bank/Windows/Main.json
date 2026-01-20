@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{BA8F1B2F-FD08-4631-94CC-1DA08FD9FDB1}",
+    "Language": "SFX",
+    "Hash": "{DE36CE07-DD71-78A1-D33B-369A602C44F6}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "140851328",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Blunt Hit-001.wav",
+      "CachePath": "52/{52C8AC3C-67E2-A1F9-CDE7-CD6090BCAC48}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1299904465",
+      "Name": "Play_Blunt_Hit_001",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Blunt_Hit_001",
+      "GUID": "{93F867C2-63C0-4253-B6A7-BBB4F9B5177C}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4312018",
+      "DurationMax": "1.4312018",
+      "MediaRefs": [
+       {
+        "Id": "140851328"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{10B9EB2A-53E5-B534-7670-700888A077A4}"
+ }
+}

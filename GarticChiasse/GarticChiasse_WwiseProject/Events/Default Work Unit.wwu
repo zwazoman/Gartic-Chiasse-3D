@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0086D62B-02AE-461F-856B-5B1F7E024922}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{0086D62B-02AE-461F-856B-5B1F7E024922}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Blunt_Hit_001" ID="{93F867C2-63C0-4253-B6A7-BBB4F9B5177C}">
+					<ChildrenList>
+						<Action Name="" ID="{CDF2F084-0C06-4E06-BF3F-BF2096983379}" ShortID="1035343129">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Blunt Hit-001" ID="{B51ACBD4-077A-4C42-9902-5FBDB5484C81}" WorkUnitID="{39B1E411-1E4E-4930-B512-44FCD0DA255C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
